@@ -7,6 +7,6 @@
 		<ImplicitUsings>enable</ImplicitUsings>
 	</PropertyGroup>
 	<ItemGroup>
-	  <PackageReference Include="QuickCash.Client" Version="3.0.0.141" />
+	  <PackageReference Include="QuickCash.Client" Version="3.0.0.142" />
 	</ItemGroup>
 </Project>
